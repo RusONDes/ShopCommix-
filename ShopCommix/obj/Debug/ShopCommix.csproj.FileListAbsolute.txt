@@ -1,0 +1,11 @@
+E:\чето\ShopCommix\ShopCommix\bin\Debug\ShopCommix.exe.config
+E:\чето\ShopCommix\ShopCommix\bin\Debug\ShopCommix.exe
+E:\чето\ShopCommix\ShopCommix\bin\Debug\ShopCommix.pdb
+E:\чето\ShopCommix\ShopCommix\obj\Debug\ShopCommix.csproj.AssemblyReference.cache
+E:\чето\ShopCommix\ShopCommix\obj\Debug\ShopCommix.csproj.SuggestedBindingRedirects.cache
+E:\чето\ShopCommix\ShopCommix\obj\Debug\ShopCommix.Form1.resources
+E:\чето\ShopCommix\ShopCommix\obj\Debug\ShopCommix.Properties.Resources.resources
+E:\чето\ShopCommix\ShopCommix\obj\Debug\ShopCommix.csproj.GenerateResource.cache
+E:\чето\ShopCommix\ShopCommix\obj\Debug\ShopCommix.csproj.CoreCompileInputs.cache
+E:\чето\ShopCommix\ShopCommix\obj\Debug\ShopCommix.exe
+E:\чето\ShopCommix\ShopCommix\obj\Debug\ShopCommix.pdb
